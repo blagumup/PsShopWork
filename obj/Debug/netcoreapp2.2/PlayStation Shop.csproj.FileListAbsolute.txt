@@ -1,0 +1,65 @@
+C:\Users\blagu\source\repos\PlayStation Shop\bin\Debug\netcoreapp2.2\PlayStation Shop.deps.json
+C:\Users\blagu\source\repos\PlayStation Shop\bin\Debug\netcoreapp2.2\PlayStation Shop.runtimeconfig.json
+C:\Users\blagu\source\repos\PlayStation Shop\bin\Debug\netcoreapp2.2\PlayStation Shop.runtimeconfig.dev.json
+C:\Users\blagu\source\repos\PlayStation Shop\bin\Debug\netcoreapp2.2\PlayStation Shop.dll
+C:\Users\blagu\source\repos\PlayStation Shop\bin\Debug\netcoreapp2.2\PlayStation Shop.pdb
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\PlayStation Shop.csprojAssemblyReference.cache
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\PlayStation Shop.csproj.CoreCompileInputs.cache
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\PlayStation Shop.RazorAssemblyInfo.cache
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\PlayStation Shop.RazorAssemblyInfo.cs
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\PlayStation Shop.AssemblyInfoInputs.cache
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\PlayStation Shop.AssemblyInfo.cs
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\PlayStation Shop.RazorTargetAssemblyInfo.cache
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\PlayStation Shop.dll
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\PlayStation Shop.pdb
+C:\Users\blagu\source\repos\PlayStation Shop\bin\Debug\netcoreapp2.2\PlayStation Shop.Views.dll
+C:\Users\blagu\source\repos\PlayStation Shop\bin\Debug\netcoreapp2.2\PlayStation Shop.Views.pdb
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\PlayStation Shop.TagHelpers.input.cache
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\PlayStation Shop.TagHelpers.output.cache
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\PlayStation Shop.RazorCoreGenerate.cache
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\Razor\Views\Products\List.g.cshtml.cs
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\PlayStation Shop.RazorTargetAssemblyInfo.cs
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\PlayStation Shop.Views.pdb
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\PlayStation Shop.csproj.CopyComplete
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\AllProducts.g.cshtml.cs
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\Razor\Views\ShopCart\Index.g.cshtml.cs
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\blagu\source\repos\PlayStation Shop\obj\Debug\netcoreapp2.2\Razor\Views\Order\Complete.g.cshtml.cs
+C:\Users\blagu\Source\Repos\PSShopWork\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\blagu\Source\Repos\PSShopWork\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\blagu\Source\Repos\PSShopWork\bin\Debug\netcoreapp2.2\dbsettings.json
+C:\Users\blagu\Source\Repos\PSShopWork\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\blagu\Source\Repos\PSShopWork\bin\Debug\netcoreapp2.2\PlayStation Shop.deps.json
+C:\Users\blagu\Source\Repos\PSShopWork\bin\Debug\netcoreapp2.2\PlayStation Shop.runtimeconfig.json
+C:\Users\blagu\Source\Repos\PSShopWork\bin\Debug\netcoreapp2.2\PlayStation Shop.runtimeconfig.dev.json
+C:\Users\blagu\Source\Repos\PSShopWork\bin\Debug\netcoreapp2.2\PlayStation Shop.dll
+C:\Users\blagu\Source\Repos\PSShopWork\bin\Debug\netcoreapp2.2\PlayStation Shop.pdb
+C:\Users\blagu\Source\Repos\PSShopWork\bin\Debug\netcoreapp2.2\PlayStation Shop.Views.dll
+C:\Users\blagu\Source\Repos\PSShopWork\bin\Debug\netcoreapp2.2\PlayStation Shop.Views.pdb
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\PlayStation Shop.csprojAssemblyReference.cache
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\PlayStation Shop.RazorAssemblyInfo.cache
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\PlayStation Shop.RazorAssemblyInfo.cs
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\PlayStation Shop.AssemblyInfoInputs.cache
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\PlayStation Shop.AssemblyInfo.cs
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\PlayStation Shop.TagHelpers.input.cache
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\PlayStation Shop.TagHelpers.output.cache
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\PlayStation Shop.RazorCoreGenerate.cache
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\Razor\Views\Order\Complete.cshtml.g.cs
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\Razor\Views\Products\List.cshtml.g.cs
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\Razor\Views\Shared\AllProducts.cshtml.g.cs
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\Razor\Views\ShopCart\Index.cshtml.g.cs
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\PlayStation Shop.RazorTargetAssemblyInfo.cache
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\PlayStation Shop.RazorTargetAssemblyInfo.cs
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\PlayStation Shop.Views.pdb
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\PlayStation Shop.dll
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\PlayStation Shop.pdb
+C:\Users\blagu\Source\Repos\PSShopWork\obj\Debug\netcoreapp2.2\PlayStation Shop.csproj.CopyComplete
